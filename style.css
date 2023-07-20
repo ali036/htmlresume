@@ -1,0 +1,25 @@
+body{ 
+	background: #444141; 
+    color: white;
+    font-family: 'Inter', sans-serif;
+
+}
+	
+img{
+    border-radius: 20%;
+    width: auto;
+    margin-left: 5%;
+   border: 2px solid white;
+}
+
+button{
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+a{
+    color: #444141;
+    font-weight: bolder;
+}
+
